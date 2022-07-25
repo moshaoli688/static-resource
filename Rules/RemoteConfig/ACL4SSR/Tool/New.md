@@ -1,4 +1,4 @@
-* https://static-cache.ytools.cc/?f=https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/banAD.acl
+* https://www.ytools.cc/gh/https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/banAD.acl
 * @leosam1995
 # 更新历史：
 	

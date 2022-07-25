@@ -1,4 +1,4 @@
 �����б���ʽ��AutoProxy
-�����б�https://static-cache.ytools.cc/?f=https://raw.githubusercontent.comontent.com/gfwlist/gfwlist/master/gfwlist.txt
+�����б�https://www.ytools.cc/gh/https://raw.githubusercontent.comontent.com/gfwlist/gfwlist/master/gfwlist.txt
 �����б���ַ���ɣ���https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt
 
